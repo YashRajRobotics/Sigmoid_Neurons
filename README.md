@@ -5,7 +5,7 @@ Answer is Yes. In this notebook, I will demonstrate how Sigmoid Neurons implemen
 
 SKLearn Logistic Regression implements Sigmoid curve for classification. However, it is more generalised. A Sigmoid Neuron implemented from scratch gives better accuracy(5-7% better accuracy) over SKLearn LogisticRegresstion funtion.
 
-<B> <font color="red">Accuracy Achieved:
+<B> <font color="red" face="Verdana, Geneva, sans-serif" size="+1">Accuracy Achieved:
 1. SKLearn LogisticRegression: 89.47368421052632 %
 2. Sigmoid Neurons: 94.73684210526315 %
 
